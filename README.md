@@ -1,10 +1,15 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# How to: build a controlled codepush in react-native app 📱
 
-# Getting Started
+Read the article for a step by step tutorial 🚀: <br/>
+https://medium.com/@aishani-pachauri/how-to-build-a-controlled-codepush-in-react-native-app-f40d60dfbda1
+
+
+------------------------------
+### Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 1: Start the Metro Server
+### Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
